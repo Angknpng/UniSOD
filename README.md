@@ -1,5 +1,5 @@
 # UniSOD
-This repository will provide the source code for the paper entilted "Unified-modal Salient Object Detection via Adaptive Prompt Learning" soon.
+This repository provides the source code and results for the paper entilted "Unified-modal Salient Object Detection via Adaptive Prompt Learning".
 
 arXiv version: https://arxiv.org/abs/2311.16835.
 
