@@ -29,6 +29,10 @@ If you think our work is helpful, please cite
 ### RGB-T SOD Performance
 [![avatar](https://github.com/Angknpng/UniSOD/raw/main/figures/performance_RGBT.png)](https://github.com/Angknpng/UniSOD/blob/main/figures/performance_RGBT.png)
 
+## Predictions
+
+The predicted RGB, RGB-D, and RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1zBqZAChDCJfkmC_Pj_xHXQ?pwd=vpvt) fetch code: vpvt]
+
 ## Contact
 
 If you have any questions, please contact us (kp.wang@foxmail.com).
