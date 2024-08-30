@@ -33,6 +33,36 @@ If you think our work is helpful, please cite
 
 The predicted RGB, RGB-D, and RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1zBqZAChDCJfkmC_Pj_xHXQ?pwd=vpvt) fetch code: vpvt]
 
+## Usage
+
+### Requirement
+
+0. Download the datasets for training and testing.
+1. Download the pretrained parameters of the backbone.
+2. Organize dataset directories for pre-training and fine-tuning.
+3. Create directories for the experiment and parameter files.
+4. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
+5. Install other packages: `pip install -r requirements.txt`.
+6. Set your path of all datasets in `./options.py`.
+
+### Pre-train
+
+```
+python -m torch.distributed.launch --nproc_per_node=2 --master_port=2024 train_parallel.py
+```
+
+### Fine-tuning
+
+```
+python -m torch.distributed.launch --nproc_per_node=2 --master_port=2024 train_parallel_multi.py
+```
+
+### Test
+
+```
+python test_produce_maps.py
+```
+
 ## Acknowledgement
 
 The implement of this project is based on the following link.
