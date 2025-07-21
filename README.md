@@ -9,11 +9,12 @@ Thank you for your attention.
 If you think our work is helpful, please cite
 
 ```
-@article{wang2023unified,
-  title={Unified-modal Salient Object Detection via Adaptive Prompt Learning},
-  author={Wang, Kunpeng and Li, Chenglong and Tu, Zhengzheng and Luo, Bin},
-  journal={arXiv preprint arXiv:2311.16835},
-  year={2023}
+@article{wang2025unified,
+  title={Unified-modal salient object detection via adaptive prompt learning},
+  author={Wang, Kunpeng and Tu, Zhengzheng and Li, Chenglong and Liu, Zhengyi and Luo, Bin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
