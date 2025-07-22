@@ -4,6 +4,11 @@ This repository provides the source code and results for the paper entilted "Uni
 arXiv version: https://arxiv.org/abs/2311.16835.
 
 Thank you for your attention.
+
+## :tada: **News** :tada:  (July, 2025)
+
+We are pleased to announce that our paper has been accepted to **[TCSVT 2025](https://ieeexplore.ieee.org/document/11082344)**! 🙏Thank you for your continued interest and support! 
+
 ## Citing our work
 
 If you think our work is helpful, please cite
