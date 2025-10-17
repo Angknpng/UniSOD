@@ -37,17 +37,17 @@ If you think our work is helpful, please cite
 
 ## Predictions
 
-The predicted RGB, RGB-D, and RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1zBqZAChDCJfkmC_Pj_xHXQ?pwd=vpvt) fetch code: vpvt]
+The predicted RGB, RGB-D, and RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1AF2qFrjH6VVmUggGAGeaoQ?pwd=gfe9) fetch code: gfe9]
 
 ## Pretrained Models
-The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1IX4Ejz4eBP6J3mmp_k3KrQ?pwd=o8yx) fetch code: o8yx]
+The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1lhnliTnhyx_dIl0a-7fspA?pwd=2tpi) fetch code: 2tpi]
 
 ## Usage
 
 ### Requirement
 
-0. Download the datasets for training and testing from here. [[baidu pan](https://pan.baidu.com/s/1auw5rbBzEQ2hsrxUtQyvzg?pwd=2sfr) fetch code: 2sfr]
-1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/14xGtKVSs53zRNZVKK-x4HA?pwd=mad3) fetch code: mad3]
+0. Download the datasets for training and testing from here. [[baidu pan](https://pan.baidu.com/s/19auDXrVOUnWQRP2Soba2zA?pwd=2ncf) fetch code: 2ncf]
+1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/1sBuu7Qw9n8aWRydQsDieBA?pwd=3ifw) fetch code: 3ifw]
 2. Organize dataset directories for pre-training and fine-tuning.
 3. Create directories for the experiment and parameter files.
 4. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
