@@ -37,10 +37,14 @@ If you think our work is helpful, please cite
 
 ## Predictions
 
-The predicted RGB, RGB-D, and RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1AF2qFrjH6VVmUggGAGeaoQ?pwd=gfe9) fetch code: gfe9]
+The pretrained parameters of our models can be found here. 
+[[baidu pan](https://pan.baidu.com/s/1lhnliTnhyx_dIl0a-7fspA?pwd=2tpi) fetch code: 2tpi] 
+[[Google Drive](https://drive.google.com/drive/folders/1PJwm5UeGtIn-Up6j5u7XPgeu2xy_Ln76?usp=drive_link)]
 
 ## Pretrained Models
-The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1lhnliTnhyx_dIl0a-7fspA?pwd=2tpi) fetch code: 2tpi]
+The pretrained parameters of our models can be found here. 
+[[baidu pan](https://pan.baidu.com/s/1lhnliTnhyx_dIl0a-7fspA?pwd=2tpi) fetch code: 2tpi] 
+[[Google Drive](https://drive.google.com/drive/folders/1PJwm5UeGtIn-Up6j5u7XPgeu2xy_Ln76?usp=drive_link)]
 
 ## Usage
 
